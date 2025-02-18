@@ -1,0 +1,1 @@
+# hide_daily_report
